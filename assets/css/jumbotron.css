@@ -1,0 +1,24 @@
+.jumbotron {
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+
+.jumbotron-home {
+  background-position: 0% 0%;
+  background-image: url(../images/SF-background.png);
+}
+
+.jumbotron-about {
+  background-image: url(../images/skyscrapers.jpg);
+  background-position: 0% 0%;
+}
+
+.jumbotron-contact {
+  background-image: url(../images/office.jpg);
+  background-position: 0% 0%;
+}
+
+p {
+  line-height: 1.75;
+}
